@@ -1,2 +1,0 @@
-# FruitCha
-Proyek
